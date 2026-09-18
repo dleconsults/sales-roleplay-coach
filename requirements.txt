@@ -1,0 +1,2 @@
+PyYAML>=6.0
+elevenlabs>=1.0.0   # only needed for voice; the tool runs in text mode without it

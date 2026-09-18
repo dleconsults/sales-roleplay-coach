@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+*.mp3
+transcript.json
+coaching_card.md
+.venv/
+.pytest_cache/
