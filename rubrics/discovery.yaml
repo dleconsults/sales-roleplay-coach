@@ -1,0 +1,24 @@
+id: discovery
+name: Discovery Call Rubric
+description: Scores a rep's discovery behavior on a 0-3 scale per criterion.
+scale:
+  0: not observed
+  1: attempted
+  2: competent
+  3: strong
+criteria:
+  - id: opened_with_context
+    label: Set context and earned the right to ask questions
+    look_for: ["agenda", "time check", "reason for the call", "what prompted"]
+  - id: diagnosed_before_pitching
+    label: Diagnosed the problem before presenting product
+    look_for: ["walk me through", "how do you handle", "what happens when", "who else"]
+  - id: quantified_pain
+    label: Quantified the cost of the current state
+    look_for: ["how many", "how much", "how often", "what does that cost"]
+  - id: handled_objection
+    label: Handled the objection without discounting or deflecting
+    look_for: ["understand", "what would need to be true", "fair", "let me address"]
+  - id: secured_next_step
+    label: Secured a specific, scheduled next step
+    look_for: ["next step", "calendar", "thursday", "follow up on", "schedule"]
