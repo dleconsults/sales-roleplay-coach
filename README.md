@@ -24,7 +24,7 @@ This makes roleplay cheap enough to run weekly and scored the same way every tim
 ## Install
 
 ```bash
-git clone https://github.com/<you>/sales-roleplay-coach
+git clone https://github.com/dleconsults/sales-roleplay-coach
 cd sales-roleplay-coach
 pip install -r requirements.txt
 cp .env.example .env    # add your keys
