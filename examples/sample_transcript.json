@@ -1,0 +1,13 @@
+{
+  "persona_id": "skeptical_broker",
+  "turns": [
+    {"speaker": "buyer", "text": "I've got about ten minutes. We've looked at three of these platforms this year and none of them moved the needle, so tell me why this one is different."},
+    {"speaker": "rep", "text": "Fair, and I won't pitch yet. Before I do, walk me through what happened with the last one. What prompted you to look in the first place?"},
+    {"speaker": "buyer", "text": "We already pay for two tools that claim to do this."},
+    {"speaker": "rep", "text": "That's fair. How many of your agents are actually logging into those two in a given week, and what happens when they don't?"},
+    {"speaker": "buyer", "text": "My agents will not log into another dashboard."},
+    {"speaker": "rep", "text": "Then I'd want to address that head on. What would need to be true for your agents to use something without a new login?"},
+    {"speaker": "buyer", "text": "Send me a deck and I'll look at it later."},
+    {"speaker": "rep", "text": "I can do that, and I'd rather not have it sit in your inbox. Can we schedule twenty minutes Thursday to look at it against three of your own listings as the next step?"}
+  ]
+}
